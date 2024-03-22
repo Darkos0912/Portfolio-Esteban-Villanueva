@@ -1,10 +1,10 @@
-import Header from './Header';
-import Prof from './Prof';
-import AboutMe from './AboutMe';
-import Portfolio from './Portfolio';
-import Contact from './Contact';
-import Footer from './Footer';
-import "../../index.css";
+import Header from './HeaderE';
+import Prof from './ProfE';
+import AboutMe from './AboutME';
+import Portfolio from './PortfolioE';
+import Contact from './ContactE';
+import Footer from './FooterE';
+import "../index.css";
 
 function App() {
 
