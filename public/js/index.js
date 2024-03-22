@@ -11,10 +11,10 @@ window.addEventListener("load", () => {
 
     select.addEventListener("change", () => {
         if(select.value == "es"){
-            location.href = "../index.html"
+            location.href = "./index.html"
         }
-        if(select.value == "en"){
-            location.href = "/English/index.html"
+        else if(select.value == "en"){
+            location.href = "/indexE.html"
         }
     })
     

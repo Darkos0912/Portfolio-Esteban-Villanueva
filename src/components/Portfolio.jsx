@@ -8,7 +8,7 @@ function Portfolio() {
                 <div class="col-works">
                     <div class="works">
                         <div class="img-works">
-                            <img src="./img/Calculadora.jpg" alt="Calculadora" />
+                            <img src="/img/Calculadora.jpg" alt="Calculadora" />
                         </div>
                         <h3 class="subt-w"> Calculadora Yes! </h3>
                         <p class="description">Esta app refleja la tarea de una calculadora funcional. Hecho con HTML, CSS y Javascript. <br /> No es Responsive</p>
@@ -16,7 +16,7 @@ function Portfolio() {
                     </div>
                     <div class="works">
                         <div class="img-works">
-                            <img src="./img/reloj.jpg" alt="Reloj" />
+                            <img src="/img/reloj.jpg" alt="Reloj" />
                         </div>
                         <h3 class="subt-w"> Reloj Tic Tac! </h3>
                         <p class="description">Esta app refleja un reloj que marca la hora en tiempo real. Hecho con HTML, CSS y JavaScript. <br /> No es Responsive</p>
@@ -24,7 +24,7 @@ function Portfolio() {
                     </div>
                     <div class="works">
                         <div class="img-works">
-                            <img src="./img/Drums.jpg" alt="Drums" />
+                            <img src="/img/Drums.jpg" alt="Drums" />
                         </div>
                         <h3 class="subt-w"> Drums Please, Lucas! </h3>
                         <p class="description">Esta app refleja una batería virtual, con sonidos reales de la batería. Hecho con HTML, CSS y JavaScript. <br /> No es Responsive</p>
@@ -32,7 +32,7 @@ function Portfolio() {
                     </div>
                     <div class="works">
                         <div class="img-works">
-                            <img src="./img/Tetris.jpg" alt="Tetris" />
+                            <img src="/img/Tetris.jpg" alt="Tetris" />
                         </div>
                         <h3 class="subt-w"> Tetris </h3>
                         <p class="description">Aquí tenemos el juego tetris, fue un proyecto con guía, y más avanzado. Hecho con HTML, CSS, JavaScript y Vite. <br /> No es Responsive</p>
@@ -41,7 +41,7 @@ function Portfolio() {
 
                     <div class="works">
                         <div class="img-works">
-                            <img src="./img/Veneno.jpg" alt="Veneno" />
+                            <img src="/img/Veneno.jpg" alt="Veneno" />
                         </div>
                         <h3 class="subt-w"> Veneno Tienda Urbana </h3>
                         <p class="description">Este es un proyecto e-commerce sobre ropa urbana. Hecho con HTML, CSS, JavaScript, NodeJS, ExpressJS, y MySQL. <br/> <strong> En progreso </strong> </p>
