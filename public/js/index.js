@@ -14,7 +14,7 @@ window.addEventListener("load", () => {
             location.href = "../index.html"
         }
         if(select.value == "en"){
-            location.href = "English/index.html"
+            location.href = "/English/index.html"
         }
     })
     
