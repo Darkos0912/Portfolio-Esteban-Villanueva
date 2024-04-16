@@ -323,6 +323,11 @@ select{
     box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.295)
 }
 
+.tecn-apr{
+    margin-top: 40px;
+}
+
+
 @media screen and (min-width: 768px){
     /* Agrandar Imagen y texto */
     .img-perf{
